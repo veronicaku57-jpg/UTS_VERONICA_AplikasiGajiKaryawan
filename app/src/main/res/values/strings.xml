@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Gaji Karyawan</string>
+    <string name="judul_menu">GAJI KARYAWAN</string>
+    <string name="gaji_pegawai">Gaji Pegawai</string>
+    <string name="petunjuk">Petunjuk</string>
+    <string name="tentang">Tentang</string>
+    <string name="exit">Exit</string>
+    <string name="website">www.sandrio.com</string>
+</resources>
